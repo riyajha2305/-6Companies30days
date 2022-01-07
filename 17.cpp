@@ -1,12 +1,5 @@
 // IPL 2021 - Match Day 2
 
-riyajha2305
-4 minutes ago
-
-C++ Solution using deque
-
- 
-
 vector<int> max_of_subarrays(vector<int> arr, int n, int k) {
        // your code here
        deque<int>dq(k);
