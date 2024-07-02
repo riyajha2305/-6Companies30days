@@ -1,21 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T04:54:44.489Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="PhkfMwUztChwgcy5VKA4" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T04:55:34.146Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="yFASV2_z2V27VgIVAHu5" version="24.6.4" type="github">
   <diagram name="Page-1" id="VG5bV6h4mqqtLLOSffNj">
     <mxGraphModel dx="2069" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Kyy9x063tHuGG-WXNNUe-1" value="Textract" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="40" y="320" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Kyy9x063tHuGG-WXNNUe-2" value="Common Document Response" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="200" y="320" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Kyy9x063tHuGG-WXNNUe-3" value="Preserve Spatial Context of Document" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="360" y="320" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Kyy9x063tHuGG-WXNNUe-5" value="List of Str" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="520" y="320" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="Kyy9x063tHuGG-WXNNUe-12" value="Common Document Response" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-39" y="480" width="160" height="30" as="geometry" />
         </mxCell>
